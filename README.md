@@ -1,10 +1,10 @@
 # I'm Pedro, a full-stack developer 👨‍💻
 
 ## 🚀 About Me
-###I'm a full stack developer passionate for technology, theWeb development, I like to be constantly adding and reinforcing knowledge help me offer the best possible solutions
+I'm a full stack developer passionate for technology, theWeb development, I like to be constantly adding and reinforcing knowledge help me offer the best possible solutions
 
 ## 🛠 Skills
-###CSS,SASS,React,Redux,Next JS,Material UI,Node,Java,Express,Sequelize,Mongoose,MySQL,PostgreSQL,MongoDB
+CSS,SASS,React,Redux,Next JS,Material UI,Node,Java,Express,Sequelize,Mongoose,MySQL,PostgreSQL,MongoDB
 
 
 ## 🔗 Links
