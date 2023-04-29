@@ -18,8 +18,7 @@ ____
 <h3 align="center"> Other Accounts 📫 </h3>
 <br />
 <p align="center">
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]() </a>
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ragni/)
+<a href="[https://www.linkedin.com/in/piyushxbajaj/](https://www.linkedin.com/in/pedro-ragni/)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ____
